@@ -66,18 +66,11 @@ export default function App({ Component, pageProps, router }: AppProps) {
         description="Hey, my name is Serene Mathew. I am a FrontEnd Engineer and Machine Learning Enthusiast From India, I’m passionate about AI/ML models and also creating intuitive web applications."
         canonical=""
         openGraph={{
-          url: "https://lndev.me/",
+          url: "https://sereneportfolio.vercel.app",
           title: "Serene Mathew",
           description:
             "Hey, my name is Serene Mathew. I am a Machine Learning and Front End Enthusiast, I’m passionate about creating beautiful, intuitive and responsive websites.",
-          images: [
-            {
-              url: "https://lndev.me/images/lndev.JPG",
-              alt: "SM. ",
-              type: "image/jpeg",
-              secureUrl: "https://lndev.me/images/lndev.JPG",
-            },
-          ],
+          
           siteName: "Serene Mathew | Portfolio",
         }}
        
