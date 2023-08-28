@@ -12,7 +12,7 @@ import Router from "next/router";
 import NProgress from "nprogress"; //nprogress module
 import { useEffect, useState, useRef } from "react";
 import Link from "next/link.js";
-import GoogleAnalytics from "@bradgarropy/next-google-analytics/dist/types/components/GoogleAnalytics/GoogleAnalytics";
+import GoogleAnalytics from "@bradgarropy/next-google-analytics";
 //Route Events.
 Router.events.on("routeChangeStart", () => NProgress.start());
 Router.events.on("routeChangeComplete", () => NProgress.done());
