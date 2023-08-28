@@ -12,6 +12,7 @@ import Router from "next/router";
 import NProgress from "nprogress"; //nprogress module
 import { useEffect, useState, useRef } from "react";
 import Link from "next/link.js";
+import GoogleAnalytics from "@bradgarropy/next-google-analytics/dist/types/components/GoogleAnalytics/GoogleAnalytics";
 //Route Events.
 Router.events.on("routeChangeStart", () => NProgress.start());
 Router.events.on("routeChangeComplete", () => NProgress.done());
@@ -75,7 +76,7 @@ export default function App({ Component, pageProps, router }: AppProps) {
         }}
        
       />
-
+      <GoogleAnalytics measurementId="G-776YRZD4F3"/>
       <AnimatePresence
         mode="wait"
         initial={true}
