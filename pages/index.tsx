@@ -54,7 +54,7 @@ export default function Home() {
         <meta
           name="description"
           content="
-        I’m a Front-end Developer & Web Integrator, I’m passionate about creating beautiful, intuitive and responsive websites.
+        Hey, my name is Serene Mathew. I am a Cyber Security analyst and researcher as well as a software developer, I’m passionate about defending the digital world from threats and also how to mitigate them with minimal risks.
         "
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -127,7 +127,7 @@ export default function Home() {
             }}
           >
             <motion.p variants={item}>
-            I am a Machine Learning and Front End Enthusiast.
+            I am a Cyber Security analyst and researcher as well as a software developer, I’m passionate about defending the digital world from threats and also how to mitigate them with minimal risks.
             </motion.p>
           </div>
           <motion.h3 variants={item}>

@@ -79,10 +79,11 @@ export default function about() {
             transition={{ delay: 0.1, duration: 0.5 }}
             className="about-left__text"
           >
-            Hey, my name is Serene Mathew but I am much better known as Sm. I am
-            a Machine Learning and Front End Enthusiast from India, I’m
-            passionate about creating beautiful websites and machine learning
-            models. I also like to listen to{" "}
+            I am a passionate Cybersecurity Researcher & Analyst and Software Developer with a deep interest in securing digital landscapes and building innovative software solutions.
+            My expertise spans threat analysis, penetration testing, vulnerability assessments, and developing secure applications. 
+            With a strong foundation in both cybersecurity and software development, I strive to create robust, efficient, and resilient systems that protect users and organizations from cyber threats. 
+            I am always eager to learn and stay ahead in the ever-evolving world of technology.
+            Let's connect and explore ways to make the digital world safer and more efficient! I also like to listen to{" "}
             <a
               href="https://open.spotify.com/playlist/1sJibF1KPBAByKag7jS3vE?si=761e3c68adc74849"
               onMouseEnter={() => cursorChangeHandler("hovered")}
@@ -107,19 +108,11 @@ export default function about() {
             <motion.h3 variants={item}>LANGUAGES</motion.h3>
             <motion.li variants={item}>
               <span>English</span>
-              <span>Fluent</span>
+              <span>Native</span>
             </motion.li>
             <motion.li variants={item}>
               <span>Hindi</span>
               <span>Fluent</span>
-            </motion.li>
-            <motion.li variants={item}>
-              <span>Malayalam</span>
-              <span>Basic</span>
-            </motion.li>
-            <motion.li>
-              <span>Gujarati</span>
-              <span>Basic</span>
             </motion.li>
           </div>
           <div className="about-left__links">

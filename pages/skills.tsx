@@ -43,6 +43,14 @@ export default function Skills() {
           colorRGB: "252, 221, 120",
         },
       ],
+    },{title: "Cyber Security tools",
+      skills: [
+        {
+          url:"https://www.svgrepo.com/show/452210/git.svg",
+          name: "Wireshark",
+          color: "#F05032",
+          colorRGB: "240, 80, 50",
+        }]
     },
     {
       title: "Web",

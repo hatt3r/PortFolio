@@ -64,13 +64,13 @@ export default function App({ Component, pageProps, router }: AppProps) {
     <>
       <NextSeo
         title="Serene Mathew"
-        description="Hey, my name is Serene Mathew. I am a FrontEnd Engineer and Machine Learning Enthusiast From India, I’m passionate about AI/ML models and also creating intuitive web applications."
+        description="Hey, my name is Serene Mathew. I am a Cyber Security analyst and researcher as well as a software developer, I’m passionate about defending the digital world from threats and also how to mitigate them with minimal risks."
         canonical=""
         openGraph={{
           url: "https://sereneportfolio.vercel.app",
           title: "Serene Mathew",
           description:
-            "Hey, my name is Serene Mathew. I am a Machine Learning and Front End Enthusiast, I’m passionate about creating beautiful, intuitive and responsive websites.",
+            "Hey, my name is Serene Mathew. I am a Cyber Security analyst and researcher as well as a software developer, I’m passionate about defending the digital world from threats and also how to mitigate them with minimal risks.",
           
           siteName: "Serene Mathew | Portfolio",
         }}
