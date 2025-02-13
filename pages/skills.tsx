@@ -43,14 +43,22 @@ export default function Skills() {
           colorRGB: "252, 221, 120",
         },
       ],
-    },{title: "Cyber Security tools",
+    },{title: "Network analysis Tools",
       skills: [
         {
-          url:"https://www.svgrepo.com/show/452210/git.svg",
+          url:"https://www.svgrepo.com/show/377840/wireshark.svg",
           name: "Wireshark",
-          color: "#F05032",
-          colorRGB: "240, 80, 50",
-        }]
+          color: "#000000",
+          colorRGB: "0, 0, 0",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.svgrepo.com/show/331335/cisco.svg",
+          name: "Cisco Packet Tracer",
+          color: "#61DAFB",
+          colorRGB: "97, 218, 251",
+        },
+      ]
     },
     {
       title: "Web",

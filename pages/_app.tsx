@@ -76,7 +76,7 @@ export default function App({ Component, pageProps, router }: AppProps) {
         }}
        
       />
-      <GoogleAnalytics measurementId="G-QBQF4V0DCH"/>
+      <GoogleAnalytics measurementId="G-776YRZD4F3"/>
       <AnimatePresence
         mode="wait"
         initial={true}
