@@ -67,7 +67,7 @@ export default function App({ Component, pageProps, router }: AppProps) {
         description="Hey, my name is Serene Mathew. I am a Cyber Security analyst and researcher as well as a software developer, I’m passionate about defending the digital world from threats and also how to mitigate them with minimal risks."
         canonical=""
         openGraph={{
-          url: "https://sereneportfolio.vercel.app",
+          url: "https://serenemat.vercel.app",
           title: "Serene Mathew",
           description:
             "Hey, my name is Serene Mathew. I am a Cyber Security analyst and researcher as well as a software developer, I’m passionate about defending the digital world from threats and also how to mitigate them with minimal risks.",
