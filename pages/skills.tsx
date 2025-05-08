@@ -159,13 +159,6 @@ export default function Skills() {
         },
         {
           url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
-          name: "FOCA",
-          color: "#4e7896",
-          colorRGB: "78, 120, 150",
-          isBgBlack: true,
-        },
-        {
-          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
           name: "PE Studio",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
@@ -186,7 +179,7 @@ export default function Skills() {
           isBgBlack: true,
         },
         {
-          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          url: "https://www.freelogovectors.net/svg13/mitre_attack_logo-freelogovectors.net.svg",
           name: "ATT&CK Navigator",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
