@@ -95,12 +95,6 @@ export default function Skills() {
           isBgBlack: true,
         },
         {
-          url: "../public/illustrations/A0giRV01 (1).svg",
-          name: "Network miner",
-          color: "#61DAFB",
-          colorRGB: "97, 218, 251",
-        },
-        {
           url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
           name: "SIEMs",
           color: "#4e7896",
