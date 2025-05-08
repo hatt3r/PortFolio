@@ -179,7 +179,7 @@ export default function Skills() {
           isBgBlack: true,
         },
         {
-          url: "https://www.freelogovectors.net/svg13/mitre_attack_logo-freelogovectors.net.svg",
+          url: "https://www.svgrepo.com/show/500761/ampersand.svg",
           name: "ATT&CK Navigator",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
@@ -191,21 +191,21 @@ export default function Skills() {
       title: "Frameworks",
       skills: [
         {
-          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          url: "https://www.svgrepo.com/show/500761/ampersand.svg",
           name: "MITRE ATT&CK",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
           isBgBlack: true,
         },
         {
-          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          url: "https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg",
           name: "MITRE D3FEND",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
           isBgBlack: true,
         },
         {
-          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          url: "https://www.svgrepo.com/show/400349/honeypot.svg",
           name: "T-Pot honeypot",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
