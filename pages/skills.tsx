@@ -130,7 +130,7 @@ export default function Skills() {
           isBgBlack: true,
         },
         {
-          url: "https://www.talosintelligence.com/assets/logo_snort_full-e94fc630ac14193693dc9ad5d3c4a33955b52bb4b01d010662ea17dac4db411d.svg",
+          url: "https://www.vectorlogo.zone/logos/snort/snort-icon.svg",
           name: "Snort",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
@@ -144,14 +144,14 @@ export default function Skills() {
           isBgBlack: true,
         },
         {
-          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          url: "https://upload.wikimedia.org/wikipedia/commons/5/57/Wazuh-2022-Logo.svg",
           name: "Wazuh",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
           isBgBlack: true,
         },
         {
-          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          url: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_Shodan.svg",
           name: "Shodan",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
