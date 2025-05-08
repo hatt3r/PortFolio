@@ -31,6 +31,41 @@ export default function Skills() {
       skills: [
         {
           url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "GO",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Powershell script",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Bash Shell Script",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "KQL",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "SQL",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
           name: "Java",
           color: "#4e7896",
           colorRGB: "78, 120, 150",
@@ -42,8 +77,15 @@ export default function Skills() {
           color: "#fcdd78",
           colorRGB: "252, 221, 120",
         },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "JavaScript",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
       ],
-    },{title: "Network analysis Tools",
+    },{title: "Analysis and Defense tools",
       skills: [
         {
           url:"https://www.svgrepo.com/show/377840/wireshark.svg",
@@ -54,12 +96,137 @@ export default function Skills() {
         },
         {
           url: "https://www.svgrepo.com/show/331335/cisco.svg",
-          name: "Cisco Packet Tracer",
+          name: "Network miner",
           color: "#61DAFB",
           colorRGB: "97, 218, 251",
         },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "SIEMs",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "EleasticSearch",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Kibana",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Splunk",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Suricata IDS",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Snort",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Sn1per",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Wazuh",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "Shodan",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "FOCA",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "PE Studio",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "PE bear",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "DIE (detect it easy)",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "ATT&CK Navigator",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
       ]
     },
+    {
+      title: "Frameworks",
+      skills: [
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "MITRE ATT&CK",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "MITRE D3FEND",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+        {
+          url: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+          name: "T-Pot honeypot",
+          color: "#4e7896",
+          colorRGB: "78, 120, 150",
+          isBgBlack: true,
+        },
+      ]
+    },
+
     {
       title: "Web",
       skills: [
@@ -252,7 +419,7 @@ export default function Skills() {
     },
     {
       name: "IBM",
-      url: "https://drive.google.com/drive/folders/1Y-4vGqgOGAmFeiQAErBY_GTxvgoLuam8?usp=drive_link",
+      url: "https://drive.google.com/file/d/1GMzSoTnYq8f0S3Xia7THpoaK4cyK00tI/view?usp=sharing",
     },
     {
       name: "Udemy",
