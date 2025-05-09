@@ -32,11 +32,36 @@ export default function Experience() {
       position: "SDE Intern",
       location: "Hybrid",
       date: "Jan 2023 - July 2023",
-      description: "",
-      stacks: ["Kotlin", "Swift", "Adobe Analytics", "JavaScript"],
+      description: "Developed and maintained swift and kotlin libraries for the analytics tags for the AllState mobile app. Created Analytics reports for user engagement throught the app and website for stakeholders.",
+      stacks: ["Kotlin", "Swift", "Adobe Analytics", "JavaScript", "AEM (Adobe Experience Manager)"],
     },
   ]
   const sideProjects: PersonalWork[] = [
+    { name: "DFIR: LoneWolf",
+      url: "https://www.linkedin.com/in/serene-mathew/overlay/1740516901585/single-media-viewer?type=DOCUMENT&profileId=ACoAADo1y1YBhMgYaVdqZGqAcpRs3XvopJNuvMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhtLjHDT2ThunzWM1bGq%2FMw%3D%3D",
+      image: "" 
+    },
+    {
+      name: "enhancing IDS to counter SlowLoris Attack",
+      url: "https://www.linkedin.com/in/serene-mathew/overlay/1740517161580/single-media-viewer?type=DOCUMENT&profileId=ACoAADo1y1YBhMgYaVdqZGqAcpRs3XvopJNuvMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBMYtlh6uRli3SH2%2BfbUo%2Bg%3D%3D",
+      image: ""
+    },
+    {
+      name: "LightWeight-Crypto",
+      url: "https://github.com/hatt3r/LightWeight-Crypto",
+      image:""
+    },
+    {
+      name: "Exploring Honeypots in Healthcare and Industrial Systems",
+      url: "https://www.linkedin.com/in/serene-mathew/details/projects/1740517885874/single-media-viewer?type=DOCUMENT&profileId=ACoAADo1y1YBhMgYaVdqZGqAcpRs3XvopJNuvMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BCxYOVcueQ7GI02UW0GXd%2FQ%3D%3D",
+      image: ""
+    },
+
+    {
+      name: "Portfolio",
+      url: "https://github.com/hatt3r/PortFolio",
+      image:"",
+    },
     {
       name: "Personality-Predictor",
       url: "https://github.com/hatt3r/Personality-Predictor",
@@ -96,7 +121,7 @@ export default function Experience() {
               initial={{ y: "50%", opacity: 0 }}
               transition={{ delay: 0.1, duration: 0.5 }}
             >
-              Work
+              Internship
             </motion.h2>
           </div>
           <div className="experience-works__cards">
