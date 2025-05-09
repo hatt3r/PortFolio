@@ -399,31 +399,45 @@ export default function Skills() {
       ],
     },
   ];
-  const certifications: Certifications[] = [
+  const certifications:  Certifications[] = [
     {
-      name: "DataCamp",
-      url: "https://drive.google.com/drive/folders/1SSJxSzndGYPZsI6rEBBJjIhGJrYWMQJG?usp=drive_link",
+      name: "Career Essentials in Software Development (Microsoft and LinkedIn)",
+      url: "https://www.linkedin.com/learning/certificates/3c7b0af240d31f902901846c105f613001b054d72dbe3e07777571f7bbb629b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BXfjwNmcrQW6Bk0esGx%2FnSQ%3D%3D"
     },
     {
-      name: "IBM",
-      url: "https://drive.google.com/file/d/1GMzSoTnYq8f0S3Xia7THpoaK4cyK00tI/view?usp=sharing",
+      name: "Intro to Splunk",
+      url: "https://drive.google.com/file/d/1Ij7BEeVicVYz7YoHr-wMMfYBt7COlXYH/view?usp=sharing",
     },
     {
-      name: "Udemy",
-      url: "https://drive.google.com/drive/folders/1gXwFW9a59z1vb2qjcS4WY34sDOlq3P8S?usp=drive_link",
+      name: "SOAR Analyst (Google Cloud Secuurity)",
+      url: "https://learn.chronicle.security/certificates/pt3uvd8oq1",
     },
     {
-      name: "Cisco",
-      url: "https://drive.google.com/drive/folders/1rj8N48TCiSqxVI9pr0n6_5t34CzOPd97?usp=drive_link",
+      name: "Foundations of operationalizing MITRE ATT&C v13 (AttackIQ)",
+      url: "https://www.academy.attackiq.com/certificate/6711?resource_id=10847&user_id=226533&type=course",
+    },
+    {
+      name: "Python Essential 1 (Cisco)",
+      url: "https://www.credly.com/badges/e922419c-0387-4e24-8461-64686c42ed88/linked_in_profile",
     },
     {
       name: "Cybrary",
       url: "https://drive.google.com/drive/folders/1_IT3Wp9kuFdz0VtHJz8KAwI1sR_N1TmK?usp=drive_link",
     },
     {
-      name: "FreeCodeCamp",
-      url: "https://www.freecodecamp.org/certification/serenemat/javascript-algorithms-and-data-structures",
+      name: "Top ATT&CK techniques Certificate (AttackIQ)",
+      url: "https://academy.attackiq.com/certificate/6711?resource_id=5847&user_id=226533&type=course",
     },
+    {
+      name: "Journey to Cloud: Envisioning Your Solution (IBM)",
+      url: "https://www.credly.com/go/ZtIE0VGn"
+    },
+    {
+      name: "Buidling RESTful APIs with Node.js and Express (Linkedin Learning)",
+      url: "https://www.linkedin.com/learning/certificates/bed8a50679ab1a7c3acb6f76c6b82ceae5650fca1e1c0a2417167355071ba000?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BXfjwNmcrQW6Bk0esGx%2FnSQ%3D%3D",
+    },
+
+
   ];
   return (
     <>
@@ -509,7 +523,7 @@ export default function Skills() {
               initial={{ y: "50%", opacity: 0 }}
               transition={{ delay: 0.1, duration: 0.5 }}
             >
-              Certifications
+              Course Certificates
             </motion.h2>
           </div>
           <ul className="skills-certif__cards">
