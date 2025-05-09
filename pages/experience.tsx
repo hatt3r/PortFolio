@@ -32,18 +32,18 @@ export default function Experience() {
       position: "SDE Intern",
       location: "Hybrid",
       date: "Jan 2023 - July 2023",
-      description: "Developed and maintained swift and kotlin libraries for the analytics tags for the AllState mobile app. Created Analytics reports for user engagement throught the app and website for stakeholders.",
+      description: "Developed and maintained swift and kotlin libraries for the analytics tags for the AllState mobile app. Created Analytics reports for user engagement through out the app and website for stakeholders.",
       stacks: ["Kotlin", "Swift", "Adobe Analytics", "JavaScript", "AEM (Adobe Experience Manager)"],
     },
   ]
   const sideProjects: PersonalWork[] = [
     { name: "DFIR: LoneWolf",
-      url: "https://www.linkedin.com/in/serene-mathew/overlay/1740516901585/single-media-viewer?type=DOCUMENT&profileId=ACoAADo1y1YBhMgYaVdqZGqAcpRs3XvopJNuvMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhtLjHDT2ThunzWM1bGq%2FMw%3D%3D",
+      url: "https://drive.google.com/file/d/1DPhDxY9OpmJsuCTNzwuG1IvtBOCoOSKc/view?usp=sharing",
       image: "" 
     },
     {
       name: "enhancing IDS to counter SlowLoris Attack",
-      url: "https://www.linkedin.com/in/serene-mathew/overlay/1740517161580/single-media-viewer?type=DOCUMENT&profileId=ACoAADo1y1YBhMgYaVdqZGqAcpRs3XvopJNuvMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBMYtlh6uRli3SH2%2BfbUo%2Bg%3D%3D",
+      url: "https://drive.google.com/file/d/1wuNGRDOWv0YQLHZFUu5FJ47RBki-2m4K/view?usp=sharing",
       image: ""
     },
     {
@@ -53,7 +53,7 @@ export default function Experience() {
     },
     {
       name: "Exploring Honeypots in Healthcare and Industrial Systems",
-      url: "https://www.linkedin.com/in/serene-mathew/details/projects/1740517885874/single-media-viewer?type=DOCUMENT&profileId=ACoAADo1y1YBhMgYaVdqZGqAcpRs3XvopJNuvMg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BCxYOVcueQ7GI02UW0GXd%2FQ%3D%3D",
+      url: "https://drive.google.com/file/d/1hluTsGECaf6ksnBG4w4DBstKVh4Y5o1x/view?usp=sharing",
       image: ""
     },
 
